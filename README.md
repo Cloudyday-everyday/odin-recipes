@@ -5,3 +5,4 @@ Specifically, a website highlighting recipes will be made.
 
 ## Extra learning
 * By highlighting parts in code, you can use ctrl+shift+p to wrap in a tag
+* Set up signing for commit to show your commits as Verified
